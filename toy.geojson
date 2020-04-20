@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5570603248122,
+          -30.2110754071007,
+          42.0408
+        ]
+      },
+      "properties": {
+        "name": "BARRA DO QUARAÍ",
+        "styleUrl": "#Style8",
+        "styleHash": "-419336ae",
+        "ID": "19249",
+        "CD_GEOCODIGO": "430187505000001",
+        "TIPO": "URBANO",
+        "CD_GEOCODBA": "",
+        "NM_BAIRRO": "",
+        "CD_GEOCODSD": "43018750500",
+        "NM_SUBDISTRITO": "",
+        "CD_GEOCODDS": "430187505",
+        "NM_DISTRITO": "BARRA DO QUARAÍ",
+        "CD_GEOCODMU": "4301875",
+        "NM_MUNICIPIO": "BARRA DO QUARAÍ",
+        "NM_MICRO": "CAMPANHA OCIDENTAL",
+        "NM_MESO": "SUDOESTE RIO-GRANDENSE",
+        "NM_UF": "RIO GRANDE DO SUL",
+        "CD_NIVEL": "1",
+        "CD_CATEGORIA": "05",
+        "NM_CATEGORIA": "CIDADE",
+        "NM_LOCALIDADE": "BARRA DO QUARAÍ",
+        "LONG": "-57.5570603248122",
+        "LAT": "-30.2110754079217",
+        "ALT": "42.0408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0818249090229,
+          -29.7598231712009,
+          78.23019
+        ]
+      },
+      "properties": {
+        "name": "URUGUAIANA",
+        "styleUrl": "#Style8",
+        "styleHash": "-419336ae",
+        "ID": "20512",
+        "CD_GEOCODIGO": "432240005000001",
+        "TIPO": "URBANO",
+        "CD_GEOCODBA": "432240005001",
+        "NM_BAIRRO": "Centro",
+        "CD_GEOCODSD": "43224000500",
+        "NM_SUBDISTRITO": "",
+        "CD_GEOCODDS": "432240005",
+        "NM_DISTRITO": "URUGUAIANA",
+        "CD_GEOCODMU": "4322400",
+        "NM_MUNICIPIO": "URUGUAIANA",
+        "NM_MICRO": "CAMPANHA OCIDENTAL",
+        "NM_MESO": "SUDOESTE RIO-GRANDENSE",
+        "NM_UF": "RIO GRANDE DO SUL",
+        "CD_NIVEL": "1",
+        "CD_CATEGORIA": "05",
+        "NM_CATEGORIA": "CIDADE",
+        "NM_LOCALIDADE": "URUGUAIANA",
+        "LONG": "-57.0818249090229",
+        "LAT": "-29.7598231720144",
+        "ALT": "78.23019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4536470403836,
+          -30.3828679600575,
+          118.674261
+        ]
+      },
+      "properties": {
+        "name": "QUARAÍ",
+        "styleUrl": "#Style8",
+        "styleHash": "-419336ae",
+        "ID": "20041",
+        "CD_GEOCODIGO": "431530505000001",
+        "TIPO": "URBANO",
+        "CD_GEOCODBA": "",
+        "NM_BAIRRO": "",
+        "CD_GEOCODSD": "43153050500",
+        "NM_SUBDISTRITO": "",
+        "CD_GEOCODDS": "431530505",
+        "NM_DISTRITO": "QUARAÍ",
+        "CD_GEOCODMU": "4315305",
+        "NM_MUNICIPIO": "QUARAÍ",
+        "NM_MICRO": "CAMPANHA OCIDENTAL",
+        "NM_MESO": "SUDOESTE RIO-GRANDENSE",
+        "NM_UF": "RIO GRANDE DO SUL",
+        "CD_NIVEL": "1",
+        "CD_CATEGORIA": "05",
+        "NM_CATEGORIA": "CIDADE",
+        "NM_LOCALIDADE": "QUARAÍ",
+        "LONG": "-56.4536470403836",
+        "LAT": "-30.3828679608813",
+        "ALT": "118.674261"
+      }
+    }
+  ]
+}

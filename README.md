@@ -1,2 +1,0 @@
-# infovis
-infovis playground
