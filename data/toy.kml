@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <Folder>
+    <Placemark>
+			<name>URUGUAIANA</name>
+			<styleUrl>#Style8</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema8">
+					<SimpleData name="ID">20512</SimpleData>
+					<SimpleData name="CD_GEOCODIGO">432240005000001</SimpleData>
+					<SimpleData name="TIPO">URBANO</SimpleData>
+					<SimpleData name="CD_GEOCODBA">432240005001</SimpleData>
+					<SimpleData name="NM_BAIRRO">Centro</SimpleData>
+					<SimpleData name="CD_GEOCODSD">43224000500</SimpleData>
+					<SimpleData name="NM_SUBDISTRITO"></SimpleData>
+					<SimpleData name="CD_GEOCODDS">432240005</SimpleData>
+					<SimpleData name="NM_DISTRITO">URUGUAIANA</SimpleData>
+					<SimpleData name="CD_GEOCODMU">4322400</SimpleData>
+					<SimpleData name="NM_MUNICIPIO">URUGUAIANA</SimpleData>
+					<SimpleData name="NM_MICRO">CAMPANHA OCIDENTAL</SimpleData>
+					<SimpleData name="NM_MESO">SUDOESTE RIO-GRANDENSE</SimpleData>
+					<SimpleData name="NM_UF">RIO GRANDE DO SUL</SimpleData>
+					<SimpleData name="CD_NIVEL">1</SimpleData>
+					<SimpleData name="CD_CATEGORIA">05</SimpleData>
+					<SimpleData name="NM_CATEGORIA">CIDADE</SimpleData>
+					<SimpleData name="NM_LOCALIDADE">URUGUAIANA</SimpleData>
+					<SimpleData name="LONG">-57.0818249090229</SimpleData>
+					<SimpleData name="LAT">-29.7598231720144</SimpleData>
+					<SimpleData name="ALT">78.23019</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-57.0818249090229,-29.7598231712009,78.23018999999999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>QUARAÍ</name>
+			<styleUrl>#Style8</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#Schema8">
+					<SimpleData name="ID">20041</SimpleData>
+					<SimpleData name="CD_GEOCODIGO">431530505000001</SimpleData>
+					<SimpleData name="TIPO">URBANO</SimpleData>
+					<SimpleData name="CD_GEOCODBA"></SimpleData>
+					<SimpleData name="NM_BAIRRO"></SimpleData>
+					<SimpleData name="CD_GEOCODSD">43153050500</SimpleData>
+					<SimpleData name="NM_SUBDISTRITO"></SimpleData>
+					<SimpleData name="CD_GEOCODDS">431530505</SimpleData>
+					<SimpleData name="NM_DISTRITO">QUARAÍ</SimpleData>
+					<SimpleData name="CD_GEOCODMU">4315305</SimpleData>
+					<SimpleData name="NM_MUNICIPIO">QUARAÍ</SimpleData>
+					<SimpleData name="NM_MICRO">CAMPANHA OCIDENTAL</SimpleData>
+					<SimpleData name="NM_MESO">SUDOESTE RIO-GRANDENSE</SimpleData>
+					<SimpleData name="NM_UF">RIO GRANDE DO SUL</SimpleData>
+					<SimpleData name="CD_NIVEL">1</SimpleData>
+					<SimpleData name="CD_CATEGORIA">05</SimpleData>
+					<SimpleData name="NM_CATEGORIA">CIDADE</SimpleData>
+					<SimpleData name="NM_LOCALIDADE">QUARAÍ</SimpleData>
+					<SimpleData name="LONG">-56.4536470403836</SimpleData>
+					<SimpleData name="LAT">-30.3828679608813</SimpleData>
+					<SimpleData name="ALT">118.674261</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-56.4536470403836,-30.3828679600575,118.674261</coordinates>
+			</Point>
+		</Placemark>
+  </Folder>
+  </Document>
+</kml>
