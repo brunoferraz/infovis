@@ -56,6 +56,9 @@ m = folium.Map(
 #     legend_name='Births per 1000 inhabitants',
 #     smooth_factor=0
 # )
+bins = list(statesRawData['confirmed'].quantile([0.0, 0.25, 0.5, 0.75, 1.0], interpolation='linear'))
+# bin = [0, 4100]
+print(bins)
 folium.Choropleth(
     geo_data = states_geo,
     name='choropleth',
@@ -65,6 +68,7 @@ folium.Choropleth(
     fill_color='OrRd',
     fill_opacity=0.7,
     line_opacity=0.2,
+    bins = bins,
 ).add_to(m)
 # folium.LayerControl().add_to(m)
 m.save('index.html')
