@@ -58,6 +58,7 @@ for i in list_data_per_state:
 for state in complete_data_per_state:
     datadias = complete_data_per_state[state]
     # se o primeiro dia for vazio percorre a lista para frente ate encontrar o primeiro dia nao vazio
+    # pega toda a estrutura do dataframe e zera o valor
     if(datadias[0].empty):
         indice_com_informacao = 0
         for i in range(len(datadias)):
@@ -65,6 +66,7 @@ for state in complete_data_per_state:
                 indice_com_informacao = i
                 break
         datadias[0] = datadias[indice_com_informacao].copy()
+        datadias[0]['confirmed'].values[0] = 0
         # Fazer depois de ajustar todas as falhas
         # datadias[0]['date'].values[0] = dias[0]
         # print(datadias[0]['date'].values[0])
